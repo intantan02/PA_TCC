@@ -342,17 +342,6 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                   ),
                 ),
-
-                // Made by tag
-                const SizedBox(height: 24),
-                Text(
-                  'made by ade7',
-                  style: TextStyle(
-                    color: Colors.grey.shade400,
-                    fontSize: 12,
-                    fontStyle: FontStyle.italic,
-                  ),
-                ),
               ],
             ),
           ),
